@@ -4,6 +4,6 @@ Coursework for CMP 758.
 
 ## How It's Made:
 
-** Tech used:** MySQL
+**Tech used:** MySQL
 
 All homework assignments were done using MySQL.
